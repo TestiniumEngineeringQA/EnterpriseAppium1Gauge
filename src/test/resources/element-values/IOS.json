@@ -3329,7 +3329,7 @@
     "androidValue": "",
     "androidType": "",
     "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları\")]",
-    "iosType": "classChain"
+    "iosType": "xpath"
   },
   {
     "key": "AcceptButton",
