@@ -137,3 +137,4 @@ BasicIOS
 -----
 tags:Basic_IOS
 *Uygulama baslatilir
+* "markalarSekmesi" li element varsa tıkla
