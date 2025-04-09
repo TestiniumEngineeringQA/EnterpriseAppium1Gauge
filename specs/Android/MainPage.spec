@@ -139,3 +139,8 @@ AndroidBasicTest
 --------
 tags:AndroidBasicTest
 * Uygulama baslatilir
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
