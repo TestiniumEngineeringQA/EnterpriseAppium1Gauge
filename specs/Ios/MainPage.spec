@@ -151,20 +151,153 @@ tags:Success01
 * "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success02
 -----
 tags:Success02
 *Uygulama baslatilir
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success03
 -----
 tags:Success03
 *Uygulama baslatilir
 * "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
@@ -173,33 +306,111 @@ Success04
 -----
 tags:Success04
 *Uygulama baslatilir
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success05
 -----
 tags:Success05
 *Uygulama baslatilir
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success06
 -----
 tags:Success06
 *Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
+* "markalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success07
 -----
 tags:Success07
 *Uygulama baslatilir
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success08
 -----
@@ -207,183 +418,98 @@ tags:Success08
 *Uygulama baslatilir
 * "markalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success09
 -----
 tags:Success09
 *Uygulama baslatilir
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 * "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 Success10
 -----
 tags:Success10
 *Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-
-Success11
------
-tags:Success11
-*Uygulama baslatilir
 * "markalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
-
-Success12
------
-tags:Success12
-*Uygulama baslatilir
+* "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "markalarSekmesi" li element varsa tıkla
-
-Success13
------
-tags:Success13
-*Uygulama baslatilir
-* "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
-* "markalarSekmesi" li element varsa tıkla
-
-Success14
------
-tags:Success14
-*Uygulama baslatilir
-* "markalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kampanyalarSekmesi" li element varsa tıkla
-
-Success15
------
-tags:Success15
-*Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-
-Success16
------
-tags:Success16
-*Uygulama baslatilir
-* "markalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-
-Success17
------
-tags:Success17
-*Uygulama baslatilir
 * "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
-
-Success18
------
-tags:Success18
-*Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "markalarSekmesi" li element varsa tıkla
-
-Success19
------
-tags:Success19
-*Uygulama baslatilir
-* "markalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
-* "kampanyalarSekmesi" li element varsa tıkla
-
-Success20
------
-tags:Success20
-*Uygulama baslatilir
-* "kategorilerSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "markalarSekmesi" li element varsa tıkla
-
-Success21
------
-tags:Success21
-*Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-
-Success22
------
-tags:Success22
-*Uygulama baslatilir
-* "markalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-
-Success23
------
-tags:Success23
-*Uygulama baslatilir
-* "kategorilerSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "markalarSekmesi" li element varsa tıkla
-
-Success24
------
-tags:Success24
-*Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "markalarSekmesi" li element varsa tıkla
-
-Success25
------
-tags:Success25
-*Uygulama baslatilir
 * "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarSekmesi" li element varsa tıkla
-
-Success26
------
-tags:Success26
-*Uygulama baslatilir
-* "markalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kampanyalarSekmesi" li element varsa tıkla
-
-Success27
------
-tags:Success27
-*Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-
-Success28
------
-tags:Success28
-*Uygulama baslatilir
-* "markalarSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-
-Success29
------
-tags:Success29
-*Uygulama baslatilir
-* "kategorilerSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "markalarSekmesi" li element varsa tıkla
-
-Success30
------
-tags:Success30
-*Uygulama baslatilir
-* "kampanyalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
 
 BasicIOSFail
 -----
@@ -392,5 +518,13 @@ tags:Basic_IOSFail
 * "markalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "markalarSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerSekmesi" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarSekmesi" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarSekmesilllllll" li element varsa tıkla

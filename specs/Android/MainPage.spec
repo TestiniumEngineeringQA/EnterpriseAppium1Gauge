@@ -154,11 +154,86 @@ tags:AndroidBasicTest01
 * "kategorilerTab" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
 
 AndroidBasicTest02
 --------
 tags:AndroidBasicTest02
 * Uygulama baslatilir
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
 * "markalarTab" li element varsa tıkla
 * "2" saniye bekle
 * "kategorilerTab" li element varsa tıkla
@@ -174,11 +249,56 @@ tags:AndroidBasicTest03
 * "kategorilerTab" li element varsa tıkla
 * "2" saniye bekle
 * "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
 
 AndroidBasicTest04
 --------
 tags:AndroidBasicTest04
 * Uygulama baslatilir
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
 * "markalarTab" li element varsa tıkla
 * "2" saniye bekle
 * "kategorilerTab" li element varsa tıkla
@@ -194,4 +314,10 @@ tags:AndroidBasicTestFail
 * "2" saniye bekle
 * "kategorilerTab" li element varsa tıkla
 * "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
+* "markalarTab" li element varsa tıkla
+* "2" saniye bekle
+* "kategorilerTab" li element varsa tıkla
+* "2" saniye bekle
+* "kampanyalarTab" li element varsa tıkla
 * "kampanyalarTabbbbb" li element varsa tıkla
