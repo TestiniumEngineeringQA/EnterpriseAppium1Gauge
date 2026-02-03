@@ -136,12 +136,10 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 BasicIOS
 -----
 tags:Basic_IOS
-*Uygulama baslatilir
-* "markalarSekmesi" li element varsa tıkla
+* Uygulama baslatilir
+* "10" saniye bekle
+* "guncelleButon" li element varsa tıkla
 * "2" saniye bekle
-* "kategorilerSekmesi" li element varsa tıkla
-* "2" saniye bekle
-* "kampanyalarSekmesi" li element varsa tıkla
 
 Success01
 -----

@@ -3407,5 +3407,12 @@
     "androidType": "",
     "iosValue": "//XCUIElementTypeImage[@name=\"removeCircle\"]",
     "iosType": "xpath"
+  },
+  {
+    "key": "guncelleButon",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[@name=\"GÜNCELLE\"]",
+    "iosType": "xpath"
   }
 ]
