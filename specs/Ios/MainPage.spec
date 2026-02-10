@@ -136,7 +136,7 @@ tags:Gratis_IOS_EnSonGezdiklerimNonLoginSepeteGit
 BasicIOS
 -----
 tags:Basic_IOS
-* Uygulama baslatilir
+Uygulama baslatilir
 * "10" saniye bekle
 * "guncelleButon" li element varsa tıkla
 * "2" saniye bekle

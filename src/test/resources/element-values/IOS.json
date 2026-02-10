@@ -3412,7 +3412,7 @@
     "key": "guncelleButon",
     "androidValue": "",
     "androidType": "",
-    "iosValue": "//XCUIElementTypeButton[@name=\"GÜNCELLE\"]",
+    "iosValue": "//*[contains(@text, \"\")]",
     "iosType": "xpath"
   }
 ]
